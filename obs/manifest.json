@@ -1,5 +1,5 @@
 {
-  "name": "OBS",
+  "name": "obs",
   "version": "1.0.0",
   "description": "A plugin that provides OBS integration for Ignite Panel, allowing remote control and automation.",
   "author": "shkas",
