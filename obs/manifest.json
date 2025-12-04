@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "description": "A plugin that provides OBS integration for Ignite Panel, allowing remote control and automation.",
   "author": "shkas",
-  "icon": "https://raw.githubusercontent.com/iiSHKAS/Ignite-Panel-obs-plugin/main/OBS.svg"
+  "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/obs/OBS.svg"
 }
