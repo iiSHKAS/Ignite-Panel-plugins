@@ -1,7 +1,7 @@
 {
   "name": "steam",
   "version": "1.0.0",
-  "description": "A Discord plugin that gives you fast, convenient control of your Discord client.",
+  "description": "Switch accounts and launch games with one click",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/steam/steam.svg"
 }
