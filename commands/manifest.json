@@ -1,6 +1,6 @@
 {
   "name": "commands",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Run CMD or PowerShell commands with one click",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/commands/comands.svg"
