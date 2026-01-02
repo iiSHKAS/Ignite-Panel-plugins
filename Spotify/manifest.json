@@ -1,1 +1,7 @@
-
+{
+  "name": "Spotify",
+  "version": "1.0.0",
+  "description": "Control Spotify Playback",
+  "author": "shkas",
+  "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Twitch/twitch_icon.svg"
+}
