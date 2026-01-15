@@ -1,6 +1,6 @@
 {
   "name": "Window_Manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage application windows with actions to move, resize, and position them precisely, including support for multi-monitor setups and virtual desktops",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Window_Manager/Window_Manager.svg"
