@@ -1,0 +1,7 @@
+{
+  "name": "Backit",
+  "version": "1.0.1",
+  "description": "Create local Git checkpoints and push to GitHub easily",
+  "author": "shkas",
+  "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Utilities/Utilities.svg"
+}
