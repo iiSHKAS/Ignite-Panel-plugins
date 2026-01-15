@@ -1,6 +1,6 @@
 {
   "name": "Twitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin lets you manage your Twitch stream directly using customizable actions",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Twitch/twitch_icon.svg"
