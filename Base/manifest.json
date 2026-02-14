@@ -1,6 +1,6 @@
 {
   "name": "Base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of essential actions such as opening and closing applications, adjusting screen brightness, opening links, and more",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Base/Base.svg"
