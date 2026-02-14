@@ -1,6 +1,6 @@
 {
   "name": "media",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This plugin provides simple media controls that let you quickly manage playback",
   "author": "shkas",
   "icon": "https://github.com/iiSHKAS/Ignite-Panel-plugins/blob/main/Media/media.svg"
