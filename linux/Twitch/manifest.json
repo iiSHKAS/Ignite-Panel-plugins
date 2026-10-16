@@ -9,7 +9,7 @@
       "wayland": true
     }
   },
-  "version": "1.0.2",
+  "version": "L1.0.2",
   "description": "Control Twitch Chat Settings and Moderation",
   "author": "Trae",
   "icon": "twitch_icon.svg",

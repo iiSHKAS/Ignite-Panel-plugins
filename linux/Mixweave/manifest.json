@@ -9,7 +9,7 @@
       "wayland": true
     }
   },
-  "version": "1.0.2",
+  "version": "L1.0.2",
   "description": "Control Mixweave channel and stream-send volume, mute, microphones, profiles and default devices on Linux.",
   "author": "SHKAS",
   "icon": "mixweave.png",

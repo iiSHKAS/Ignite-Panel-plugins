@@ -9,7 +9,7 @@
       "wayland": true
     }
   },
-  "version": "1.0.2",
+  "version": "L1.0.2",
   "description": "Instant one-tap management for OBS Studio streaming, recording, scenes, and audio sources",
   "author": "SHKAS",
   "icon": "OBS.svg",

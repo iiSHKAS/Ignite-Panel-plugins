@@ -9,7 +9,7 @@
       "wayland": true
     }
   },
-  "version": "1.0.2",
+  "version": "L1.0.2",
   "description": "Control media playback using system media keys (Play/Pause, Next, Previous)",
   "author": "SHKAS",
   "icon": "media.svg",

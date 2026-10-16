@@ -9,7 +9,7 @@
       "wayland": true
     }
   },
-  "version": "1.0.2",
+  "version": "L1.0.2",
   "description": "Play audio file to speaker and virtual mic",
   "author": "SHKAS",
   "icon": "soundboeard.svg",
