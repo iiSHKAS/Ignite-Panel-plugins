@@ -1,0 +1,17 @@
+{
+  "name": "Spotify",
+  "display_name": "Spotify",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Control Spotify Playback",
+  "author": "SHKAS",
+  "icon": "Spotify_P.png",
+  "preserve": []
+}

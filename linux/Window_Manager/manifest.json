@@ -1,0 +1,17 @@
+{
+  "name": "Window_Manager",
+  "display_name": "Window Manager",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Move and resize windows and manage virtual desktops",
+  "author": "SHKAS",
+  "icon": "Window_Manager.svg",
+  "preserve": []
+}

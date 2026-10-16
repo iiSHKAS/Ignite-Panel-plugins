@@ -1,0 +1,17 @@
+{
+  "name": "Base",
+  "display_name": "Base",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Launch apps, open URLs, write text, and organize folders and more",
+  "author": "Base",
+  "icon": "Base.svg",
+  "preserve": []
+}

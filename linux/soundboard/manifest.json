@@ -1,0 +1,17 @@
+{
+  "name": "soundboard",
+  "display_name": "Sound board",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Play audio file to speaker and virtual mic",
+  "author": "SHKAS",
+  "icon": "soundboeard.svg",
+  "preserve": []
+}

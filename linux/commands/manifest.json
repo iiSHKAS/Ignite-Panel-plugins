@@ -1,0 +1,17 @@
+{
+  "name": "commands",
+  "display_name": "Commands",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Execute system commands using your shell (bash, zsh, fish, PowerShell...)",
+  "author": "SHKAS",
+  "icon": "comands.svg",
+  "preserve": []
+}

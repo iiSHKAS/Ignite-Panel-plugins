@@ -1,0 +1,17 @@
+{
+  "name": "Backit",
+  "display_name": "Backit",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Create local Git checkpoints and push to GitHub easily",
+  "author": "SHKAS",
+  "icon": "backit.png",
+  "preserve": []
+}

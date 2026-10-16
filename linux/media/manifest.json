@@ -1,0 +1,17 @@
+{
+  "name": "media",
+  "display_name": "Media",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Control media playback using system media keys (Play/Pause, Next, Previous)",
+  "author": "SHKAS",
+  "icon": "media.svg",
+  "preserve": []
+}

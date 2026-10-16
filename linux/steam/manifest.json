@@ -1,0 +1,17 @@
+{
+  "name": "steam",
+  "display_name": "Steam",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Switch Steam accounts and launch games",
+  "author": "SHKAS",
+  "icon": "steam.svg",
+  "preserve": []
+}

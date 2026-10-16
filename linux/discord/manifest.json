@@ -1,0 +1,17 @@
+{
+  "name": "discord",
+  "display_name": "Discord",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Control Discord actions including muting, deafening, and voice channel management",
+  "author": "SHKAS",
+  "icon": "discord.svg",
+  "preserve": []
+}

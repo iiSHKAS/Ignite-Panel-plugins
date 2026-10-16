@@ -1,0 +1,17 @@
+{
+  "name": "Twitch",
+  "display_name": "Twitch",
+  "platform": "linux",
+  "supported_platforms": {
+    "windows": false,
+    "linux": {
+      "x11": true,
+      "wayland": true
+    }
+  },
+  "version": "1.0.2",
+  "description": "Control Twitch Chat Settings and Moderation",
+  "author": "Trae",
+  "icon": "twitch_icon.svg",
+  "preserve": []
+}
